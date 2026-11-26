@@ -1,0 +1,5 @@
+name = "Property List"
+grammar = "xml"
+path_suffixes = ["plist", "entitlements", "xcprivacy", "stringsdict"]
+block_comment = ["<!-- ", " -->"]
+brackets = [{ start = "<", end = ">", close = true, newline = false }]

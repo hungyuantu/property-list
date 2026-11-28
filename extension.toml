@@ -3,7 +3,7 @@ name = "Property List"
 description = "Property List support."
 version = "0.1.0"
 schema_version = 1
-authors = ["Hung-Yuan Tu <me@hytu.dev>", "Property List Extension Contributors"]
+authors = ["Property List Extension Contributors"]
 repository = "https://github.com/hungyuantu/property-list"
 
 [grammars.xml]
